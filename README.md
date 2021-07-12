@@ -1,5 +1,5 @@
 # COLLECTION GROUPS
-__Collection Groups add-on for Blender 2.92+__.
+__Collection Groups add-on for Blender 2.92+__
 
 Add your *Collections* to *Collection Groups* to control their *Exclude from View Layer* checkboxes and all *Visibility* settings at once
 

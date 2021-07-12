@@ -18,7 +18,7 @@ The source code is provided under the GPL license. If you want to get ready-to-i
 # Install
 - Purchase and download ZIP file:
 
-__Gumroad__ - the link will be here soon  
+__Gumroad__ - https://gum.co/vELyng  
 __Blendermarket__ - the link will be here soon
 - Don't unpack it!
 - Open Blender. From top menu go to > Edit > Preferences > Add-ons > Install
